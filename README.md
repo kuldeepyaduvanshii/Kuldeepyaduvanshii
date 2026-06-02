@@ -14,7 +14,6 @@ Passions: Web Development • AI • Creativity
 Currently: Learning Web Dev & Building Projects
 Achievements: 
   - 🥇 2nd Rank | Prompt IT Hackathon by Cracked Community
-  - 🏆 2nd Position | AI Based Hackathon at CDGI
   - 📜 Microsoft Applied Skills | AI Research Agents
   - 🤝 Volunteer | CITRONICS 2K26 National Level Fest
   - 💡 SnowHacks Participant
