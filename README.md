@@ -60,7 +60,6 @@ Achievements:
 ## 🏆 Achievements & Certificates
 
 - 🥇 Prompt IT Hackathon | 2nd Position — Cracked Community @ CDGI  
-- 🏆 AI Based Hackathon | 2nd Rank — CDGI  
 - 📜 Microsoft Applied Skills | AI Research Agents  
 - 🤝 Volunteer | CITRONICS 2K26 National Level Techno Fest  
 - 💡 SnowHacks Participant  
