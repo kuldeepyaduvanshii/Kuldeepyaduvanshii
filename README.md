@@ -77,27 +77,6 @@ Achievements:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepyaduvanshii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=CBD5E1" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kuldeepyaduvanshii&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepyaduvanshii&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=CBD5E1&layout=compact" width="38%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuldeepyaduvanshii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
