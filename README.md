@@ -9,7 +9,7 @@
 
 ```yaml
 Name: Kuldeep Yaduvanshi
-Education: B.Tech First Year | CDGI, Indore
+Education: Computer Science and Engineering | CDGI, Indore
 Passions: Web Development • AI • Creativity
 Currently: Learning Web Dev & Building Projects
 Achievements: 
