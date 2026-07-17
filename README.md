@@ -14,12 +14,11 @@ Passions: Web Development • AI • Creativity
 Currently: Learning Web Dev & Building Projects
 Achievements: 
   - 🅖 Google Student Ambassador | GID: 10311
-  - 👨‍💻 Microsoft Learn Student Ambassador (Beta)
+  - 👨‍💻 Microsoft Learn Student Ambassador
   - 🥇 2nd Rank | Prompt IT Hackathon by Cracked Community
+  - 🎨 Creative Member | Cracked Community
   - 📜 Microsoft Applied Skills | AI Research Agents
   - 🤝 Volunteer | CITRONICS 2K26 National Level Fest
-  - 💡 SnowHacks Participant
-  - 🎨 Creative Member | Cracked Community
 ```
 
 *"Learning gives creativity, creativity leads to thinking, thinking provides knowledge, knowledge makes you great."* — A.P.J. Abdul Kalam
