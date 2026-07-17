@@ -12,7 +12,8 @@ Name: Kuldeep Yaduvanshi
 Education: Computer Science and Engineering | CDGI, Indore
 Passions: Web Development • AI • Creativity
 Currently: Learning Web Dev & Building Projects
-Achievements: 
+Achievements:
+
   - 🅖 Google Student Ambassador | GID: 10311
   - 👨‍💻 Microsoft Learn Student Ambassador
   - 🥇 2nd Rank | Prompt IT Hackathon by Cracked Community
